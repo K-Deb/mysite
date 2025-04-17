@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./assets/img/DKlogo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -38,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-a37c72dd2dbac68997fcdc15a3622e78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d7264298787c6208f1ada611b16c65a5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
@@ -70,6 +71,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 <link rel="stylesheet" href="assets/index.css">
 
 
@@ -83,6 +85,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./assets/img/DKlogo.png" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Debayan Koley</span>
     </a>
@@ -126,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
       <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Debayan Koley</h1>
-<p class="subtitle lead">Data Scientist at the University of Pennsylvania</p>
+<p class="subtitle lead">Research Scholar at the Department of Statistics, Banaras Hindu University</p>
 </div>
 <div class="quarto-title-meta column-page">
   </div>
@@ -139,17 +144,32 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-github"></i>
      <span class="about-link-text"></span>
   </a>
+  <a href="mailto:deb.koley@bhu.ac.in" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text"></span>
+  </a>
   <a href="https://orcid.org/0000-0001-7872-017X" class="about-link" rel="" target="">
      <span class="about-link-text"><i class="ai  ai-orcid" aria-label="orcid"></i></span>
   </a>
   <a href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&amp;hl=en" class="about-link" rel="" target="">
      <span class="about-link-text"><i class="ai  ai-google-scholar" aria-label="google-scholar"></i></span>
   </a>
+  <a href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" class="about-link" rel="" target="">
+     <span class="about-link-text"><i class="ai  ai-clarivate" aria-label="clarivate"></i></span>
+  </a>
+  <a href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" class="about-link" rel="" target="">
+     <span class="about-link-text"><i class="ai  ai-researchgate" aria-label="researchgate"></i></span>
+  </a>
+  <a href="/Debayan_Koley_CV.pdf" class="about-link" rel="" target="">
+     <span class="about-link-text"><i class="ai ai-cv fa-lg"></i></span>
+  </a>
 </div>
       <div class="about-contents"><div id="hero-heading">
 <p>I am a researcher, R educator, and data journalist with a love for community. My <strong>research</strong> leverages electronic health record and spatial data to study the intersection of health equity and urban nature. My <strong>journalism</strong> and <strong>community</strong> projects value the partnership between open source tools and data literacy as a way to build power and effect change.</p>
 </div></div>
     </div>
+    <img src="assets/img/cropped_image.png" class="about-image
+  rounded " style="width: 28em;">
   </div>
 </div>
 
@@ -238,6 +258,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -556,4 +581,5 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

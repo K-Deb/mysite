@@ -1,12 +1,17 @@
 project:
   type: website
+  resources: 
+        - Debayan_Koley_CV.pdf
 
 website:
   title: "Debayan Koley"
   site-url: https://kdeb.netlify.app
+  # description: "Researcher, educator, and journalist with data science expertise."
+  favicon: assets/img/DKlogo.png
   page-navigation: true
   back-to-top-navigation: true
   navbar:
+    logo: assets/img/DKlogo.png
     right:
       - href: index.qmd
         text: Home
@@ -23,9 +28,14 @@ page-footer:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: [default, css/theme.scss]
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    code-link: true
+    pagetitle: "{{< meta title >}}"
+    lightbox: true
     css: styles.css
     toc: true
 
