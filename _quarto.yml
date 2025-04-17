@@ -2,12 +2,24 @@ project:
   type: website
 
 website:
-  title: "mysite"
+  title: "Debayan Koley"
+  site-url: https://kdeb.netlify.app
+  page-navigation: true
+  back-to-top-navigation: true
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+
+page-footer:  
+    left: >-
+     &#169; 2024 Debayan Koley &#8729; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
 
 format:
   html:
