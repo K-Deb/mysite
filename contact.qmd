@@ -1,0 +1,79 @@
+---
+pagetitle: Debayan Koley - Contact
+# title: Send me a note
+name: Contact Form
+page-layout: article
+format: 
+  html: 
+    grid:
+      margin-width: 0px
+      sidebar-width: 0px
+
+header-includes: >
+  <link rel="stylesheet" href="assets/contact.css">
+resources:
+  - assets/contact.css
+---
+
+:::::: grid
+::: {#note .g-col-5}
+# Send me a note {{< fa feather-pointed >}}
+
+You can use this form to contact me about any queries, collaborations, or simply to say hello.
+
+<!-- I also love hearing if my educational materials have been helpful for you, and how they could be improved &#8212; particularly if they could be made more accessible {{< bi heart-fill >}} -->
+
+<!-- <a class="link-dark me-1" href="/accessibility.html" title="Accessibility commitment" target="_blank"rel="noopener">{{< fa universal-access >}}</a> -->
+
+<!-- <a class="link-dark me-1" href="https://hachyderm.io/@spcanelon" title="mastodon" target="_blank" rel="noopener">{{< fa brands mastodon >}}</a> -->
+
+<a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a> <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a> <a class="link-dark me-1" href="mailto:deb.koley@bhu.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a> <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a> <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a> <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a> <a class="link-dark me-1" href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" title="Research Gate" target="_blank"rel="noopener">{{< ai researchgate >}}</a>
+
+**Debayan Koley**
+
+Department of Statistics, Banaras Hindu University
+
+Varanasi - 221005, Uttar Pradesh, India
+
+<!-- <i class="fa-brands fa-whatsapp"></i> +91 7001455707 -->
+
+<p><a href="mailto:devstat96@gmail.com">devstat96\@gmail.com</a>, <a href="mailto:deb.koley@bhu.ac.in">deb.koley\@bhu.ac.in</a></p>
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=82.99325, lat=25.26904, popup="Department of Statistics")
+```
+:::
+
+<!-- source: https://github.com/mccarthy-m-g/tidytales/blob/main/about/index.qmd#L24-L46 -->
+
+::: g-col-1
+:::
+
+::: {#form .g-col-6}
+<form action="https://formspree.io/f/mgvagkwb" method="POST" accept-charset="utf-8">
+
+<label for="full-name">Full Name</label> <input type="text" name="name" id="full-name" class="form-control" placeholder="First and Last" required>
+
+<label for="email-address">Email Address</label> <input type="email" name="_replyto" id="email-address" class="form-control" placeholder="your@email.here" required>
+
+<label for="message">Message</label>
+
+```{=html}
+<textarea rows="6" name="message" id="message" class="form-control" placeholder="Write a message here." required></textarea>
+```
+
+<button type="submit" class="btn btn-primary mt-4">
+
+Send message
+
+</button>
+
+</form>
+:::
+::::::
+
+<!-- end grid -->

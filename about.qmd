@@ -1,9 +1,103 @@
 ---
 title: "About"
+toc: true
+toc-location: left
+# preview: images/john_dancing.jpg
+lightbox: true
+execute: 
+  echo: false
+  warning: false
 ---
 
-About this site
+Welcome! I am a researcher, statistician, [{{< fa brands r-project >}}](https://www.r-project.org/about.html) enthusiast, bookworm, movie lover and a doctoral student in the [Department of Statistics](https://bhu.ac.in/Site/UnitHomeTemplate/1_159_487_Department-of-Statistics-Home) at the Banaras Hindu University.
 
-```{r}
-1 + 1
-```
+Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
+
+<center><a href="Debayan_Koley_CV.pdf" target="_blank" rel="noopener">View my complete CV here</a></center>
+
+# {{<fa street-view>}} Short Bio
+
+Debayan Koley is currently pursuing his doctoral degree in Statistics at the Department of Statistics, Banaras Hindu University. He holds a Master's degree in Statistics from Visva-Bharati University and a Bachelor's degree in Statistics from Midnapore College (Autonomous). His primary research interests lie in reliability theory, statistical inference, and Bayesian computation, with a focus on developing methods that are both theoretically robust and practically applicable. Beyond academics, Debayan is a voracious reader across genres and an avid film enthusiast. In his leisure time, he enjoys creative writing and playing the amateur violin.
+
+# {{<fa magnifying-glass-plus>}} Research Interests
+
+-   Reliability Theory
+-   Statistical Inference
+-   Censoring Schemes
+-   Bayesian Inference
+-   Statistical Computation
+
+# {{<fa user-graduate>}} Education
+
+-   Ph.D. in Statistics, [Banaras Hindu University](https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site), Ongoing
+-   M.Sc. in Statistics, [Visva-Bharati University](https://www.visvabharati.ac.in/Visva_Bharati.html), 2020
+-   B.Sc. (Hon.) in Statistics, [Midnapore College (Autonomous)](https://midnaporecollege.ac.in/), 2018
+-   Higher Secondary, [Ramkrishna Mission Vidyabhavan Midnapore](https://www.rkmvmidnapore.org/), 2015
+-   Secondary, [Ramkrishna Mission Vidyabhavan Midnapore](https://www.rkmvmidnapore.org/), 2013
+
+<!-- # {{<fa user-tie>}} Experience -->
+
+# {{<fa gear>}} Skills
+
+::::::::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: center;"}
+<div>
+
+<i class="fa-brands fa-r-project fa-beat fa-3x" style="color: blue;"></i><br> Statistical Computation <br> with R
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-chart-line fa-flip fa-3x" style="color: green;"></i><br> Statistics and <br> Data Analysis
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-z fa-bounce fa-3x" style="color: red;"></i><br> Zotero <br> Reference Manager
+
+</div>
+
+<div>
+
+<i class="fa-brands fa-microsoft fa-fade fa-3x" style="color: blue;"></i><br> Microsoft Office
+
+</div>
+
+<div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" class="latex-logo" width="60"/><br> LaTeX
+
+</div>
+
+<div>
+
+<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" alt="R Shiny Logo" class="shiny-logo" width="80"/><br> R Shiny
+
+</div>
+:::::::::
+
+# {{<fa users>}} Peer Reviewing
+
+-   [Computational Statistics](https://link.springer.com/journal/180)
+-   [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20)
+
+# {{<fa language>}} Language Proficiency
+
+:::: language-bar
+::: {.language-level style="width: 90%;"}
+Native (Bengali)
+:::
+::::
+
+:::: language-bar
+::: {.language-level style="width: 75%;"}
+Professional (English)
+:::
+::::
+
+:::: language-bar
+::: {.language-level style="width: 50%;"}
+Working (Hindi)
+:::
+::::

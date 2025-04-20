@@ -1,1 +1,57 @@
 /* css styles */
+/*For justifying texts in website*/
+#quarto-document-content {
+	text-align: justify;
+}
+
+/*Animating LaTeX logo*/
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.latex-logo {
+  width: 60px;
+  animation: spin 4s linear infinite;
+}
+
+/*Animating R shiny logo*/
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.07); }
+  100% { transform: scale(1); }
+}
+
+.shiny-logo {
+  width: 80px;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/*Language Proficiency*/
+.language-bar {
+  width: 100%;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.language-level {
+  height: 25px;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.language-level[style*="90%"] {
+  background-color: #4CAF50; /* Green for Native */
+}
+
+.language-level[style*="75%"] {
+  background-color: #87CEEB; /* Blue for Professional */
+}
+
+.language-level[style*="50%"] {
+  background-color: #FFC107; /* Yellow for Working */
+}
+

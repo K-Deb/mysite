@@ -1,0 +1,38 @@
+---
+title: "Conferences and Workshops"
+# description: I lead interdisciplinary research that explores relationships between technological change and factors that shape it, such as consumer behavior, market dynamics, and policy. I apply a systems engineering perspective to better understand these relationships and to inform policy, with an emphasis on accelerating transitions to cleaner technologies. I have expertise in choice modeling, survey design, programming in R, China, and the global electric vehicle industry.
+# preview: images/lab/john_helveston.png
+execute: 
+  echo: false
+  message: false
+  warning: false
+format: html 
+toc: true
+toc-location: left
+---
+
+^\*Presenting author^
+
+# Conferences and Seminars
+
+## Contributory
+
+-   **Abhimanyu Singh Yadav**, Shivanshi Shukla, Debayan Koley\*. 2022. Parametric Inference of Weighted Xgamma Exponential Distribution Under Progressive Type -II Censoring Scheme with Application to Lifetime Data. Oral presentation: National workshop-cum-seminar on Emerging Trends in Statistics for Agricultural Sustainability, October 14-15, 2022, Lucknow University, Lucknow, UP.
+
+-   **Abhimanyu Singh Yadav**, Debayan Koley\*. 2023. On progressively first-failure censored generalized Rayleigh with binomial removals: Application to Nigerian Breast Cancer Data. 2023. Oral presentation: Silver Jubilee (Annual) International Conference of the Society of Statistics, Computer and Applications (SSCA) on Significance of Statistical Sciences in the Emerging Scenario, February 15-17, 2023, Jammu university, Jammu.
+
+-   **Debayan Koley\***. 2023. On progressively first-failure censored logistic exponential distribution with beta-binomial removals. Oral presentation: National workshop/conference on Interdisciplinary Approach of Statistical Techniques in Research Methodology, May 25-27, 2023, H.N.B. Garhwal university, Srinagar Garhwal, Uttarakhand.
+
+-   **Debayan Koley\***, Abhimanyu Singh Yadav. 2024. Statistical Inferences for the Generalized Rayleigh Distribution under an Adaptive Progressive First-failure Censoring Scheme. Oral presentation: Second International Conference on Mathematics and Applications (ICMA - 2024), December 13-15, 2024, Nepal Mathematical Society, Kathmandu, Nepal.
+
+-   **Debayan Koley\***, Abhimanyu Singh Yadav. 2024. Some Characterizations of a Super Heavy-tailed Distribution and Its Application in Modeling Progressively First-failure Censored Data. Poster presentation: International Workshop on Reliability Theory and Survival Analysis (IWRTSA - 2024), December 21-23, 2024, DST-CIMS & Department of Statistics, Banaras Hindu University, Varanasi.
+
+-   **Debayan Koley\***, Abhimanyu Singh Yadav. 2024. Some Characterizations of a Pathological Distribution as a Lifetime Model and Inferential Exploration under Progressive First-failure Censoring Scheme. Oral presentation: ELEVENTH INTERNATIONAL CALCUTTA TRIENNIAL SYMPOSIUM On Probability and Statistics, December 27-30, 2024, University of Calcutta, Calcutta.
+
+-   **Debayan Koley\***, Abhimanyu Singh Yadav. 2025. Statistical Inferences for Log-Cauchy Distribution under Progressive First-failure Censoring Scheme. Poster presentation: National Seminar on Methodological Challenges and Terminological Issues in the Application of Statistics (NSMCTIAS - 2025), February 11-12, 2025, Department of Statistics, Institute of Science, Banaras Hindu University, Varanasi.
+
+# Workshops
+
+## Attended
+
+-   High-End workshop (KARYASHALA) on Advanced Statistical and Machine Learning Models sponsored by SERB, GoI and organized by Department of Electronics Engineering, IIT(BHU) from 22-28 august, 2022.

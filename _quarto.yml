@@ -1,34 +1,106 @@
 project:
   type: website
+  output-dir: _site
+  render: 
+    - "index.qmd"
+    - "about.qmd"
+    - "research.qmd"
+    - "conf.qmd"
+    - "awards.qmd"
+    - "contact.qmd"
   resources: 
         - Debayan_Koley_CV.pdf
 
 website:
   title: "Debayan Koley"
+  description: "The personal website of Debayan Koley"
+  image: assets/img/cropped_image.png
   site-url: https://kdeb.netlify.app
   # description: "Researcher, educator, and journalist with data science expertise."
-  favicon: assets/img/DKlogo.png
+  favicon: assets/img/icon.png
+  repo-url: https://github.com/K-Deb/mysite
   page-navigation: true
   back-to-top-navigation: true
+  google-analytics: "G-NF6ZZN9N4X"
+  open-graph: 
+    locale: es_ES
+    site-name: https://kdeb.netlify,app
   navbar:
     logo: assets/img/DKlogo.png
+    background: primary
+    search: true
     right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-page-footer:  
-    left: >-
-     &#169; 2024 Debayan Koley &#8729; Made with [Quarto](https://quarto.org)
+      # - text: "About"
+      - href: about.qmd
+      - text: Research
+        menu:
+          # - text: List of Publication
+          - href: research.qmd
+          # - text: Conferences and Workshops
+          - href: conf.qmd
+          # - text: Commentary
+          #   href: posts.qmd#category=commentary
+          # - text: Awards
+          - href: awards.qmd
+          # - text: Grants
+            # href: https://deeppolicylab.github.io/projects.html
+            # target: _blank                                  
+      # - text: Teaching
+        # href: teaching.qmd
+      # - text: Outreach
+      #   menu:
+      #   - text: Policy Engagement
+      #     href: posts.qmd#category=outreach 
+      #   - text: Policy Citations
+      #     href: notable-policy-citations.qmd          
+      #   - text: Presentations
+      #     href: posts.qmd#category=presentation       
+      #   - text: Testimony
+      #     href: posts.qmd#category=testimony
+      #   - text: Media
+      #     href: media.qmd        
+      #   - text: Notes
+      #     href: notes.qmd          
+      # - text: Deep Policy Lab
+      #   href: https://deeppolicylab.github.io/
+      #   target: _blank
+  page-footer:
+    background: light
+    left: "[Debayan Koley](https://kdeb.netlify.app) &copy; <script>document.write(new Date().getFullYear())</script> Made with {{< fa heart >}}, [{{< fa brands github >}}](https://github.com/K-Deb/mysite){target=_blank}, [{{< fa brands r-project >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org)" 
     center: |
       <a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
       <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="mailto:deb.koley@bhu.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a>
       <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
       <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
-
+      <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a>
+      <a class="link-dark me-1" href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" title="Research Gate" target="_blank"rel="noopener">{{< ai researchgate >}}</a>
+      <a class="link-dark me-1" href="Debayan_Koley_CV.pdf" title="CV" target="_blank"rel="noopener"><i class="ai ai-cv fa-lg"></i></a>
+    right: 
+      # - text: "Accessibility"
+      #   aria-label: "Accessibility Commitment"
+      #   href: accessibility.qmd
+      - text: "Contact"
+        aria-label: "Contact Form"
+        href: "contact.qmd"
+      # - text: "License"
+      #   aria-label: "License Details"
+      #   href: license.qmd
+      # - icon: rss
+      #   href: blog/index.xml
 format:
   html:
-    theme: [default, css/theme.scss]
+    theme: 
+      light: 
+        - cosmo
+        - assets/deb-theme.scss
+        - assets/colors.scss
+        # - assets/silvia/fonts.scss
+      dark: 
+        - darkly
+        - assets/styles-dark.scss
+
+    highlight-style: a11y
     anchor-sections: true
     smooth-scroll: true
     link-external-newwindow: true
@@ -38,6 +110,7 @@ format:
     lightbox: true
     css: styles.css
     toc: true
+    include-in-header: "_includes/header.html"
 
 editor: visual
 execute:

@@ -1,6 +1,6 @@
 ---
 title: "Debayan Koley"
-pagetitle: "Debayan Koley"
+pagetitle: "Debayan's Homepage"
 subtitle: "Research Scholar at the Department of Statistics, Banaras Hindu University"
 image: assets/img/cropped_image.png
 # image-alt: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"
@@ -12,16 +12,19 @@ image: assets/img/cropped_image.png
     # image: assets/img/icon.png
 
 about:
-  template: solana
+  template: trestles
   image-width: 28em
+  image-shape: rounded
   id: hero-heading
   links:
     - icon: linkedin
       aria-label: "LinkedIn"
       href: https://www.linkedin.com/in/debayan-koley-112743138
+      target: _blank
     - icon: github
       aria-label: GitHub
       href: https://github.com/K-Deb
+      target: _blank
     # - icon: mastodon
     #   href: https://hachyderm.io/@spcanelon
     - icon: envelope
@@ -30,19 +33,24 @@ about:
     - text: "{{< ai orcid >}}"
       aria-label: "ORCID"
       href: https://orcid.org/0000-0001-7872-017X
+      target: _blank
     - text: "{{< ai google-scholar >}}"
       aria-label: "Google Scholar"
       href: https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en
+      target: _blank
     - text: "{{< ai clarivate >}}"
       aria-label: "Web of Science"
       href: https://www.webofscience.com/wos/author/record/IYS-8969-2023
+      target: _blank
     - text: "{{< ai researchgate >}}"
       aria-label: "Research Gate"
       href: https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf
+      target: _blank
     # - text: "{{< ai scopus >}} Scopus"
     #   href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
     - text: '<i class="ai ai-cv fa-lg"></i>'
       href: Debayan_Koley_CV.pdf
+      target: _blank
 page-layout: full
 
 execute: 
@@ -59,7 +67,15 @@ resources:
 <br><br>
 
 ::: {#hero-heading}
-I am a researcher, R educator, and data journalist with a love for community. My **research** leverages electronic health record and spatial data to study the intersection of health equity and urban nature. My **journalism** and **community** projects value the partnership between open source tools and data literacy as a way to build power and effect change.
+I am a Research Scholar in the [**Department of Statistics at Banaras Hindu University**](https://bhu.ac.in/Site/UnitHomeTemplate/1_159_487_Department-of-Statistics-Home), where my research centers on developing robust statistical methods with strong real-world applicability. My primary focus is on **statistical inference for lifetime models**, particularly in the presence of **censored data**, as commonly encountered in survival analysis and reliability studies.
+
+My work also delves into **Bayesian methods**, including **Markov Chain Monte Carlo (MCMC) techniques** and **Bayesian approximation methods**, to develop adaptive and data-driven approaches to statistical inference. I am passionate about statistical computing, with a strong emphasis on open-source tools like [R](https://www.r-project.org/) and [LaTeX](https://www.latex-project.org/) to ensure transparency and reproducibility in research.
+
+Beyond my theoretical work, I have a keen interest in **R package development** and [R Shiny](https://shiny.posit.co/), exploring ways to create tools and interactive applications that enhance the accessibility and practical use of statistical methods in various fields.
+
+I am especially drawn to the interdisciplinary applications of statistics, aiming to develop methods that are not only theoretically rigorous but also practically impactful—across domains such as healthcare, engineering, and the social sciences.
+
+[Learn more about me &rarr;](about.qmd){.about-links .subtitle}
 :::
 
 <!-- hero-heading -->

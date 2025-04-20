@@ -1,0 +1,16 @@
+---
+title: "Awards"
+# description: I lead interdisciplinary research that explores relationships between technological change and factors that shape it, such as consumer behavior, market dynamics, and policy. I apply a systems engineering perspective to better understand these relationships and to inform policy, with an emphasis on accelerating transitions to cleaner technologies. I have expertise in choice modeling, survey design, programming in R, China, and the global electric vehicle industry.
+# preview: images/lab/john_helveston.png
+execute: 
+  echo: false
+  message: false
+  warning: false
+format: html 
+toc: false
+toc-location: left
+---
+
+- International Travel Support, Institute of Eminence Scheme - Banaras Hindu University, 2024
+- Best Paper Presentation Award, National workshop-cum-seminar on Emerging Trends in Statistics for Agricultural Sustainability 2022, University of Lucknow, 2022
+- INSPIRE Scholarship for Higher Education, Department of Science and Technology, Government of India, 2015-2020
