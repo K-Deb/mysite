@@ -5,14 +5,14 @@
 }
 
 /*Animating LaTeX logo*/
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
 }
 
 .latex-logo {
-  width: 60px;
-  animation: spin 4s linear infinite;
+  width: 80px;
+  animation: float 2s ease-in-out infinite;
 }
 
 /*Animating R shiny logo*/

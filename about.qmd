@@ -11,7 +11,7 @@ execute:
 
 Welcome! I am a researcher, statistician, [{{< fa brands r-project >}}](https://www.r-project.org/about.html) enthusiast, bookworm, movie lover and a doctoral student in the [Department of Statistics](https://bhu.ac.in/Site/UnitHomeTemplate/1_159_487_Department-of-Statistics-Home) at the Banaras Hindu University.
 
-Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
+Get in touch by [saying hello](/contact.qmd)! {{< fa feather-pointed >}}
 
 <center><a href="Debayan_Koley_CV.pdf" target="_blank" rel="noopener">View my complete CV here</a></center>
 

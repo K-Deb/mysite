@@ -17,7 +17,7 @@ resources:
 
 :::::: grid
 ::: {#note .g-col-5}
-# Send me a note {{< fa feather-pointed >}}
+# Connect with me {{< fa feather-pointed >}}
 
 You can use this form to contact me about any queries, collaborations, or simply to say hello.
 
