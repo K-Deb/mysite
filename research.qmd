@@ -13,6 +13,7 @@ toc-location: left
 
 <!-- Remove margin under list items -->
 
+```{=html}
 <style>
 ol {
     margin-bottom: 5px;
@@ -21,6 +22,7 @@ p {
   margin: 5px 0 0 0;
 }
 </style>
+```
 
 ```{r setup}
 source("_common.R")
