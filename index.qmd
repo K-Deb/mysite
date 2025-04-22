@@ -1,6 +1,6 @@
 ---
 title: "Debayan Koley"
-pagetitle: "Debayan's Homepage"
+pagetitle: "Home"
 subtitle: "Research Scholar at the Department of Statistics, Banaras Hindu University"
 image: assets/img/cropped_image.png
 # image-alt: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"

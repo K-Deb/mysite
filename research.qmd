@@ -55,11 +55,15 @@ pubs <- get_pubs()
 
 `r make_pub_list(pubs, "peer_reviewed")`
 
+## Accepted Articles in Refereed Journals
+
+`r make_pub_list(pubs, "accepted")`
+
 <!-- ## Refereed Articles in Conference Proceedings -->
 
 <!-- `r make_pub_list(pubs, "conference")` -->
 
-<!-- ## Working Papers & Papers Under Review -->
+<!-- ## Working Papers, Communicated Articles & Papers Under Review  -->
 
 <!-- `r make_pub_list(pubs, "working")` -->
 

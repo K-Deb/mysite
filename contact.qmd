@@ -1,5 +1,5 @@
 ---
-pagetitle: Debayan Koley - Contact
+pagetitle: Contact
 # title: Send me a note
 name: Contact Form
 page-layout: article
