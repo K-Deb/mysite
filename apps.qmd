@@ -1,0 +1,32 @@
+---
+title: "Applications"
+toc: true
+toc-location: left
+# preview: images/john_dancing.jpg
+lightbox: true
+format: 
+  html: 
+    code-fold: true
+execute: 
+  echo: false
+  warning: false
+---
+
+<!-- # [<i class="fa-brands fa-r-project fa-3x" style="color: blue;"></i>](rproject.org) Packages -->
+
+
+# [<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" alt="R Shiny Logo" width="80"/>](shiny.posit.co) Applications
+
+<!-- Central Limit Theorem -->
+
+<!-- Shiny App Card -->
+<div class="app-card" style="max-width: 350px; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 1em;">
+  <a href="https://9bw6-devstat.shinyapps.io/CLT_viz/" target="_blank" style="text-decoration: none; color: inherit;"><img src="assets/img/CLTshiny.png" alt="Shiny App Preview" style="width: 100%; display: block;">
+    <div style="padding: 1em;"><h3 style="margin: 0 0 0.5em 0;"> Central Limit Theorem Visualization</h3><p style="margin: 0; color: #555;">Explore the CLT with dynamic sampling visualizations in Shiny.</p></div> <!-- Closing div for the card body -->
+  </a>
+  
+  <!-- GitHub Repo Link -->
+  <div style="padding: 0 1em 1em 1em;">
+  <a href="https://github.com/K-Deb/Central_Limit_Theorem_Visualizations" target="_blank" style="display: inline-block; background-color: #24292e; color: white; padding: 0.5em 1em; border-radius: 8px; text-decoration: none; font-weight: bold;"><i class="fa-brands fa-github"></i> GitHub Repo</a>
+  </div> <!-- Closing div for the GitHub link -->
+</div> <!-- Closing div for the main card -->
