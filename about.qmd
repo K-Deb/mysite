@@ -24,7 +24,7 @@ Debayan Koley is currently pursuing his doctoral degree in Statistics at the Dep
 
 # {{<fa magnifying-glass-plus>}} Research Interests
 
--   Reliability Theory  $\bullet$  Statistical Inference  $\bullet$  Censoring Schemes  $\bullet$  Bayesian Inference  $\bullet$  Statistical Computation
+-   Reliability Theory $\bullet$ Statistical Inference $\bullet$ Censoring Schemes $\bullet$ Bayesian Inference $\bullet$ Statistical Computation
 
 # {{<fa user-graduate>}} Education
 
@@ -36,8 +36,7 @@ Debayan Koley is currently pursuing his doctoral degree in Statistics at the Dep
 
 # {{<fa user-tie>}} Experience
 
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="30%"}
 09.08.2023 - 29.01.2024
 :::
@@ -50,8 +49,7 @@ Debayan Koley is currently pursuing his doctoral degree in Statistics at the Dep
 -   Course Instructor, DST-CIMS, Banaras Hindu University
     -   Course: Probability and Statistics, B.Voc. Computer Application
 :::
-
-::::
+::::::
 
 # {{<fa gear>}} Skills
 
@@ -95,13 +93,13 @@ Debayan Koley is currently pursuing his doctoral degree in Statistics at the Dep
 
 # {{<fa users>}} Peer Reviewing
 
--   [Computational Statistics](https://link.springer.com/journal/180)  $\bullet$  [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20)
+-   [Computational Statistics](https://link.springer.com/journal/180) $\bullet$ [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20)
 
 # {{<fa address-card>}} Memberships
 
--   e-student membership  $\bullet$  [Royal Statistical Society](https://rss.org.uk/)  $\bullet$  ID: 218947
--   Student membership  $\bullet$  [Institute of Mathematical Statistics](https://imstat.org/)  $\bullet$  ID: 37517
--   Student membership  $\bullet$  [International Indian Statistical Association](https://www.intindstat.org/)  $\bullet$  ID: IN-00-2839
+-   e-student membership $\bullet$ [Royal Statistical Society](https://rss.org.uk/) $\bullet$ ID: 218947
+-   Student membership $\bullet$ [Institute of Mathematical Statistics](https://imstat.org/) $\bullet$ ID: 37517
+-   Student membership $\bullet$ [International Indian Statistical Association](https://www.intindstat.org/) $\bullet$ ID: IN-00-2839
 
 # {{<fa language>}} Language Proficiency
 
