@@ -11,6 +11,7 @@ toc: false
 toc-location: left
 ---
 
-- International Travel Support, Institute of Eminence Scheme - Banaras Hindu University, 2024
-- Best Paper Presentation Award, National workshop-cum-seminar on Emerging Trends in Statistics for Agricultural Sustainability 2022, University of Lucknow, 2022
-- INSPIRE Scholarship for Higher Education, Department of Science and Technology, Government of India, 2015-2020
+-   International Travel Support, Institute of Eminence Scheme - Banaras Hindu University, 2024
+-   Best Paper Presentation Award, National workshop-cum-seminar on Emerging Trends in Statistics for Agricultural Sustainability 2022, University of Lucknow, 2022
+-   UGC Non-NET Fellowship, 2021-2025
+-   INSPIRE Scholarship for Higher Education, Department of Science and Technology, Government of India, 2015-2020

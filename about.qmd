@@ -95,11 +95,11 @@ Debayan Koley is currently pursuing his doctoral degree in Statistics at the Dep
 
 [Computational Statistics](https://link.springer.com/journal/180), [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20), [Communications in Statistics - Theory and Methods ](https://www.tandfonline.com/journals/lsta20)
 
-# {{<fa address-card>}} Memberships
+<!-- # {{<fa address-card>}} Memberships -->
 
--   e-student membership $\bullet$ [Royal Statistical Society](https://rss.org.uk/) $\bullet$ ID: 218947
--   Student membership $\bullet$ [Institute of Mathematical Statistics](https://imstat.org/) $\bullet$ ID: 37517
--   Student membership $\bullet$ [International Indian Statistical Association](https://www.intindstat.org/) $\bullet$ ID: IN-00-2839
+<!-- -   e-student membership $\bullet$ [Royal Statistical Society](https://rss.org.uk/) $\bullet$ ID: 218947 -->
+<!-- -   Student membership $\bullet$ [Institute of Mathematical Statistics](https://imstat.org/) $\bullet$ ID: 37517 -->
+<!-- -   Student membership $\bullet$ [International Indian Statistical Association](https://www.intindstat.org/) $\bullet$ ID: IN-00-2839 -->
 
 # {{<fa language>}} Language Proficiency
 
