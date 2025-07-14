@@ -77,7 +77,7 @@ website:
     center: |
       <a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
       <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
-      <a class="link-dark me-1" href="mailto:deb.koley@bhu.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a>
+      <a class="link-dark me-1" href="mailto:debayan.koley1@adamasuniversity.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a>
       <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
       <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
       <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a>

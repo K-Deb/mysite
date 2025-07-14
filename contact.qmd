@@ -27,24 +27,26 @@ You can use this form to contact me about any queries, collaborations, or simply
 
 <!-- <a class="link-dark me-1" href="https://hachyderm.io/@spcanelon" title="mastodon" target="_blank" rel="noopener">{{< fa brands mastodon >}}</a> -->
 
-<a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a> <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a> <a class="link-dark me-1" href="mailto:deb.koley@bhu.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a> <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a> <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a> <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a> <a class="link-dark me-1" href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" title="Research Gate" target="_blank"rel="noopener">{{< ai researchgate >}}</a>
+<a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a> <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a> <a class="link-dark me-1" href="mailto:debayan.koley1@adamasuniversity.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a> <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a> <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a> <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a> <a class="link-dark me-1" href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" title="Research Gate" target="_blank"rel="noopener">{{< ai researchgate >}}</a>
 
 **Debayan Koley**
 
-Department of Statistics, Banaras Hindu University
+Adjunct Faculty
 
-Varanasi - 221005, Uttar Pradesh, India
+Department of Mathematics, School of Basic and Applied Sciences, Adamas University
 
-<!-- <i class="fa-brands fa-whatsapp"></i> +91 7001455707 -->
+Adamas Knowledge City, Jagannathpur, Kolkata, West Bengal 700126, India
 
-<p><a href="mailto:devstat96@gmail.com">devstat96\@gmail.com</a>, <a href="mailto:deb.koley@bhu.ac.in">deb.koley\@bhu.ac.in</a></p>
+<!-- <i class="fa-brands fa-whatsapp"></i> +91 7998141311 -->
+
+<p><a href="mailto:devstat96@gmail.com">devstat96\@gmail.com</a>, <a href="mailto:debayan.koley1@adamasuniversity.ac.in">debayan.koley1\@adamasuniversity.ac.in</a></p>
 
 ```{r}
 #| echo: false
 library(leaflet)
-leaflet() %>%
+suppressWarnings(leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=82.99325, lat=25.26904, popup="Department of Statistics")
+  addMarkers(lng=88.45655905044401, lat=22.73847079410535, popup="Department of Mathematics"))
 ```
 :::
 
