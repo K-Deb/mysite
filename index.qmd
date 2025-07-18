@@ -1,7 +1,7 @@
 ---
 title: "Debayan Koley"
 pagetitle: "Home"
-subtitle: "Adjunct Faculty at the Department of Mathematics, School of Basic and Applied Sciences, Adamas University"
+subtitle: "Adjunct Faculty at the Department of Mathematical Sciences, School of Basic and Applied Sciences, Adamas University"
 image: assets/img/cropped_image.png
 # image-alt: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"
 
@@ -67,7 +67,7 @@ resources:
 <br><br>
 
 ::: {#hero-heading}
-I am an Adjunct Faculty in the [**Department of Mathematics, School of Basic and Applied Sciences (SoBAS) at Adamas University**](https://science.adamasuniversity.ac.in/mathematics/), where my research centers on developing robust statistical methods with strong real-world applicability. My primary focus is on **statistical inference for lifetime models**, particularly in the presence of **censored data**, as commonly encountered in survival analysis and reliability studies.
+I am an Adjunct Faculty in the [**Department of Mathematical Sciences, School of Basic and Applied Sciences (SoBAS) at Adamas University**](https://science.adamasuniversity.ac.in/mathematics/), where my research centers on developing robust statistical methods with strong real-world applicability. My primary focus is on **statistical inference for lifetime models**, particularly in the presence of **censored data**, as commonly encountered in survival analysis and reliability studies.
 
 My work also delves into **Bayesian methods**, including **Markov Chain Monte Carlo (MCMC) techniques** and **Bayesian approximation methods**, to develop adaptive and data-driven approaches to statistical inference. I am passionate about statistical computing, with a strong emphasis on open-source tools like [R](https://www.r-project.org/) and [LaTeX](https://www.latex-project.org/) to ensure transparency and reproducibility in research.
 

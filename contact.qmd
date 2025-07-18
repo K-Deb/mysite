@@ -33,7 +33,7 @@ You can use this form to contact me about any queries, collaborations, or simply
 
 Adjunct Faculty
 
-Department of Mathematics, School of Basic and Applied Sciences, Adamas University
+Department of Mathematical Sciences, School of Basic and Applied Sciences, Adamas University
 
 Adamas Knowledge City, Jagannathpur, Kolkata, West Bengal 700126, India
 
@@ -48,7 +48,7 @@ Adamas Knowledge City, Jagannathpur, Kolkata, West Bengal 700126, India
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=88.45655905044401, lat=22.73847079410535, popup="Department of Mathematics")
+  addMarkers(lng=88.45750208789377, lat=22.738072372972066, popup="Department of Mathematical Sciences")
 ```
 :::
 
