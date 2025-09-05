@@ -41,7 +41,7 @@ pubs <- get_pubs()
 
 <a href="Debayan_Koley_CV.pdf" target="_blank" rel="noopener">View my complete CV here</a>
 
-`r htmltools::HTML(paste0(icon_link(icon = "ai ai-google-scholar", text = "Google Scholar", url  = "https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en"), icon_link(icon = "ai ai-orcid", text = "ORCID", url  = "https://orcid.org/0000-0001-7872-017X"), icon_link(icon = "ai ai-researchgate", text = "Research Gate", url = "https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf"), icon_link(icon = "ai ai-clarivate", text = "Web of Science", url  = "https://www.webofscience.com/wos/author/record/IYS-8969-2023")))`
+`r htmltools::HTML(paste0(icon_link(icon = "ai ai-google-scholar", text = "Google Scholar", url  = "https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en"), icon_link(icon = "ai ai-orcid", text = "ORCID", url  = "https://orcid.org/0000-0001-7872-017X"), icon_link(icon = "ai ai-researchgate", text = "Research Gate", url = "https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf"), icon_link(icon = "ai ai-scopus", text = "Scopus", url = "https://www.scopus.com/authid/detail.uri?authorId=59754724000"), icon_link(icon = "ai ai-clarivate", text = "Web of Science", url  = "https://www.webofscience.com/wos/author/record/IYS-8969-2023"))) ```
 
 <br>
 

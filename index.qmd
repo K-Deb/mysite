@@ -38,6 +38,10 @@ about:
       aria-label: "Google Scholar"
       href: https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en
       target: _blank
+    - text: "{{< ai scopus >}}"
+      aria-label: "Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=59754724000
+      target: _blank
     - text: "{{< ai clarivate >}}"
       aria-label: "Web of Science"
       href: https://www.webofscience.com/wos/author/record/IYS-8969-2023
@@ -75,7 +79,7 @@ Beyond my theoretical work, I have a keen interest in **R package development** 
 
 I am especially drawn to the interdisciplinary applications of statistics, aiming to develop methods that are not only theoretically rigorous but also practically impactful—across domains such as healthcare, engineering, and the social sciences.
 
-[Learn more about me &rarr;](about.qmd){.about-links .subtitle}
+[Learn more about me →](about.qmd){.about-links .subtitle}
 :::
 
 <!-- hero-heading -->

@@ -67,7 +67,7 @@ Debayan Koley has recently submitted his doctoral thesis at the Department of St
 
 # {{<fa gear>}} Skills
 
-::::::::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: center;"}
+::::::::::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: center;"}
 <div>
 
 <i class="fa-brands fa-r-project fa-3x" style="color: blue;"></i><br> Statistical Computation <br> with R
@@ -111,20 +111,22 @@ Debayan Koley has recently submitted his doctoral thesis at the Department of St
 </div>
 
 <div>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/320px-C_Logo.png" alt="C Programming Logo" width="60"/><br> C Programming
+
 </div>
-
-
-:::::::::
+:::::::::::
 
 # {{<fa users>}} Peer Reviewing
 
-[Computational Statistics](https://link.springer.com/journal/180), [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20), [Communications in Statistics - Theory and Methods ](https://www.tandfonline.com/journals/lsta20)
+[Computational Statistics](https://link.springer.com/journal/180), [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20), [Communications in Statistics - Theory and Methods](https://www.tandfonline.com/journals/lsta20)
 
 <!-- # {{<fa address-card>}} Memberships -->
 
 <!-- -   e-student membership $\bullet$ [Royal Statistical Society](https://rss.org.uk/) $\bullet$ ID: 218947 -->
+
 <!-- -   Student membership $\bullet$ [Institute of Mathematical Statistics](https://imstat.org/) $\bullet$ ID: 37517 -->
+
 <!-- -   Student membership $\bullet$ [International Indian Statistical Association](https://www.intindstat.org/) $\bullet$ ID: IN-00-2839 -->
 
 # {{<fa language>}} Language Proficiency

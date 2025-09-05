@@ -7,6 +7,7 @@ project:
     - "research.qmd"
     - "conf.qmd"
     - "awards.qmd"
+    - "Courses.qmd"
     - "apps.qmd"
     - "contact.qmd"
   resources: 
@@ -48,6 +49,9 @@ website:
           # - text: Grants
             # href: https://deeppolicylab.github.io/projects.html
             # target: _blank
+      -  text: Teaching
+         menu: 
+           - href: Courses.qmd
       -  text: Others
          menu:
           # - text: Packages and Applications
@@ -80,6 +84,7 @@ website:
       <a class="link-dark me-1" href="mailto:debayan.koley1@adamasuniversity.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a>
       <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
       <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
+      <a class="link-dark me-1" href="https://www.scopus.com/authid/detail.uri?authorId=59754724000" title="Scopus" target="_blank"rel="noopener">{{< ai scopus >}}</a>
       <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a>
       <a class="link-dark me-1" href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" title="Research Gate" target="_blank"rel="noopener">{{< ai researchgate >}}</a>
       <a class="link-dark me-1" href="Debayan_Koley_CV.pdf" title="CV" target="_blank"rel="noopener"><i class="ai ai-cv fa-lg"></i></a>
