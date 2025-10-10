@@ -20,15 +20,15 @@ Get in touch by [saying hello](/contact.qmd)! {{< fa feather-pointed >}}
 
 # {{<fa street-view>}} Short Bio
 
-Debayan Koley has recently submitted his doctoral thesis at the Department of Statistics, Banaras Hindu University, and is currently employed as an adjunct faculty in the Department of Mathematical Sciences, School of Basic and Applied Sciences at Adamas University. He holds a master's degree in statistics from Visva-Bharati University and a bachelor's degree in statistics from Midnapore College (Autonomous). His primary research interests lie in reliability theory, statistical inference, and Bayesian computation, with a focus on developing methods that are both theoretically robust and practically applicable. Beyond academics, Debayan is a voracious reader across genres and an avid film enthusiast. In his leisure time, he enjoys creative writing and playing the amateur violin.
+Debayan Koley is currently employed as an adjunct faculty in the Department of Mathematical Sciences, School of Basic and Applied Sciences at Adamas University. He holds a doctoral degree in statistics from Banaras Hindu University, a master's degree in statistics from Visva-Bharati University and a bachelor's degree in statistics from Midnapore College (Autonomous). His primary research interests lie in reliability theory, statistical inference, and Bayesian computation, with a focus on developing methods that are both theoretically robust and practically applicable. Beyond academics, Debayan is a voracious reader across genres and an avid film enthusiast. In his leisure time, he enjoys creative writing, learning new languages and playing the amateur violin.
 
 # {{<fa magnifying-glass-plus>}} Research Interests
 
--   Reliability Theory $\bullet$ Statistical Inference $\bullet$ Censoring Schemes $\bullet$ Bayesian Inference $\bullet$ Statistical Computation
+-   Lifetime Data Analysis $\bullet$ Statistical Inference $\bullet$ Censoring Schemes $\bullet$ Bayesian Inference $\bullet$ Statistical Computation
 
 # {{<fa user-graduate>}} Education
 
--   Ph.D. in Statistics, [Banaras Hindu University](https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site), 2025 (Thesis submitted)
+-   Ph.D. in Statistics, [Banaras Hindu University](https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site), 2025
 -   M.Sc. in Statistics, [Visva-Bharati University](https://www.visvabharati.ac.in/Visva_Bharati.html), 2020
 -   B.Sc. (Hon.) in Statistics, [Midnapore College (Autonomous)](https://midnaporecollege.ac.in/), 2018
 -   Higher Secondary, [Ramkrishna Mission Vidyabhavan Midnapore](https://www.rkmvmidnapore.org/), 2015
@@ -119,7 +119,7 @@ Debayan Koley has recently submitted his doctoral thesis at the Department of St
 
 # {{<fa users>}} Peer Reviewing
 
-[Computational Statistics](https://link.springer.com/journal/180), [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20), [Communications in Statistics - Theory and Methods](https://www.tandfonline.com/journals/lsta20)
+[Computational Statistics](https://link.springer.com/journal/180), [Quality Technology and Quantitative Management](https://www.tandfonline.com/journals/ttqm20), [Communications in Statistics - Theory and Methods](https://www.tandfonline.com/journals/lsta20), [Life Cycle Reliability and Safety Engineering](https://link.springer.com/journal/41872)
 
 <!-- # {{<fa address-card>}} Memberships -->
 

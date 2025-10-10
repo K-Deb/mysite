@@ -11,7 +11,7 @@ toc: true
 toc-location: left
 ---
 
-- Engineering Mathematics I: Differential Calculus, Vector Algebra
-- Engineering Mathematics IIIC: Descriptive Statistics, Survey Sampling, Probability Theory, Hypothesis Testing
-- M.Sc. Applied Statistics and Data Science: Design of Experiments
-- B.Sc. Skill Enhancement Course: Python Programming
+-   Engineering Mathematics I: Differential Calculus, Vector Algebra
+-   Engineering Mathematics IIIC: Descriptive Statistics, Survey Sampling, Probability Theory, Hypothesis Testing
+-   M.Sc. Applied Statistics and Data Science: Design of Experiments
+-   B.Sc. Skill Enhancement Course: Python Programming

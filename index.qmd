@@ -1,5 +1,5 @@
 ---
-title: "Debayan Koley"
+title: "Dr. Debayan Koley"
 pagetitle: "Home"
 subtitle: "Adjunct Faculty at the Department of Mathematical Sciences, School of Basic and Applied Sciences, Adamas University"
 image: assets/img/cropped_image.png
@@ -77,7 +77,7 @@ My work also delves into **Bayesian methods**, including **Markov Chain Monte Ca
 
 Beyond my theoretical work, I have a keen interest in **R package development** and [R Shiny](https://shiny.posit.co/), exploring ways to create tools and interactive applications that enhance the accessibility and practical use of statistical methods in various fields.
 
-I am especially drawn to the interdisciplinary applications of statistics, aiming to develop methods that are not only theoretically rigorous but also practically impactful—across domains such as healthcare, engineering, and the social sciences.
+I am especially drawn to the interdisciplinary applications of statistics, aiming to develop methods that are not only theoretically rigorous but also practically impactful; across domains such as healthcare, engineering, and the social sciences.
 
 [Learn more about me →](about.qmd){.about-links .subtitle}
 :::
