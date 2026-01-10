@@ -31,11 +31,11 @@ You can use this form to contact me about any queries, collaborations, or simply
 
 **Dr. Debayan Koley**
 
-Adjunct Faculty
+Assistant Professor
 
-Department of Mathematical Sciences, School of Basic and Applied Sciences, Adamas University
+Department of Statistics, Faculty of Science, St. Xavier's University, Kolkata
 
-Adamas Knowledge City, Jagannathpur, Kolkata, West Bengal 700126, India
+Action Area III, B, Newtown, New Town, West Bengal 700160, India
 
 <!-- <i class="fa-brands fa-whatsapp"></i> +91 7998141311 -->
 
@@ -48,7 +48,7 @@ Adamas Knowledge City, Jagannathpur, Kolkata, West Bengal 700126, India
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=88.45750208789377, lat=22.738072372972066, popup="Department of Mathematical Sciences")
+  addMarkers(lng=88.48754320411442, lat=22.561309598868505, popup="Faculty of Science")
 ```
 :::
 

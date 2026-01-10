@@ -12,7 +12,7 @@ execute:
   warning: false
 ---
 
-Welcome! I am a researcher, statistician, [{{< fa brands r-project >}}](https://www.r-project.org/about.html) enthusiast, bookworm, movie lover and an Adjunct Faculty in the [**Department of Mathematical Sciences, School of Basic and Applied Sciences (SoBAS)**](https://science.adamasuniversity.ac.in/mathematics/) at Adamas University.
+Welcome! I am a researcher, statistician, [{{< fa brands r-project >}}](https://www.r-project.org/about.html) enthusiast, bookworm, movie lover and an Assistant Professor in the [**Department of Statistics, Faculty of Science**](https://www.sxuk.edu.in/statistics) at St. Xavier's University, Kolkata.
 
 Get in touch by [saying hello](/contact.qmd)! {{< fa feather-pointed >}}
 
@@ -20,7 +20,7 @@ Get in touch by [saying hello](/contact.qmd)! {{< fa feather-pointed >}}
 
 # {{<fa street-view>}} Short Bio
 
-Debayan Koley is currently employed as an adjunct faculty in the Department of Mathematical Sciences, School of Basic and Applied Sciences at Adamas University. He holds a doctoral degree in statistics from Banaras Hindu University, a master's degree in statistics from Visva-Bharati University and a bachelor's degree in statistics from Midnapore College (Autonomous). His primary research interests lie in reliability theory, statistical inference, and Bayesian computation, with a focus on developing methods that are both theoretically robust and practically applicable. Beyond academics, Debayan is a voracious reader across genres and an avid film enthusiast. In his leisure time, he enjoys creative writing, learning new languages and playing the amateur violin.
+Debayan Koley is currently employed as an assistant professor in the Department of Statistics, Faculty of Science at St. Xavier's University, Kolkata. He holds a doctoral degree in statistics from Banaras Hindu University, a master's degree in statistics from Visva-Bharati University and a bachelor's degree in statistics from Midnapore College (Autonomous). His primary research interests lie in reliability theory, statistical inference, and Bayesian computation, with a focus on developing methods that are both theoretically robust and practically applicable. Beyond academics, Debayan is a voracious reader across genres and an avid film enthusiast. In his leisure time, he enjoys creative writing, learning new languages and playing the amateur violin.
 
 # {{<fa magnifying-glass-plus>}} Research Interests
 
@@ -38,7 +38,21 @@ Debayan Koley is currently employed as an adjunct faculty in the Department of M
 
 :::::: columns
 ::: {.column width="30%"}
-07.07.2025 - Present
+06.01.2026 - Present
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+-   Assistant Professor, Department of Statistics, Faculty of Science, St. Xavier's University, Kolkata
+:::
+::::::
+
+:::::: columns
+::: {.column width="30%"}
+07.07.2025 - 24.12.2025
 :::
 
 ::: {.column width="10%"}
