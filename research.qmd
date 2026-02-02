@@ -55,9 +55,9 @@ pubs <- get_pubs()
 
 `r make_pub_list(pubs, "peer_reviewed")`
 
-## Accepted Articles in Refereed Journals
+<!-- ## Accepted Articles in Refereed Journals -->
 
-`r make_pub_list(pubs, "accepted")`
+<!-- `r make_pub_list(pubs, "accepted")` -->
 
 <!-- ## Refereed Articles in Conference Proceedings -->
 
@@ -87,9 +87,9 @@ pubs <- get_pubs()
 
 <!-- `r make_pub_list(pubs, "other")` -->
 
-<!-- ## Theses -->
+## Theses
 
-<!-- `r make_pub_list(pubs, "theses")` -->
+`r make_pub_list(pubs, "theses")`
 
 <!-- ## Student Theses -->
 

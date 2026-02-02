@@ -27,7 +27,7 @@ You can use this form to contact me about any queries, collaborations, or simply
 
 <!-- <a class="link-dark me-1" href="https://hachyderm.io/@spcanelon" title="mastodon" target="_blank" rel="noopener">{{< fa brands mastodon >}}</a> -->
 
-<a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a> <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a> <a class="link-dark me-1" href="mailto:debayan.koley1@adamasuniversity.ac.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a> <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a> <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a> <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a> <a class="link-dark me-1" href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" title="Research Gate" target="_blank"rel="noopener">{{< ai researchgate >}}</a>
+<a class="link-dark me-1" href="https://www.linkedin.com/in/debayan-koley-112743138" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a> <a class="link-dark me-1" href="https://github.com/K-Deb" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a> <a class="link-dark me-1" href="mailto:debayan.koley@sxuk.edu.in" title="Email" target="_blank" rel="noopener">{{< fa brands envelope >}}</a> <a class="link-dark me-1" href="https://orcid.org/0000-0001-7872-017X" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a> <a class="link-dark me-1" href="https://scholar.google.com/citations?user=fZF4M1MAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a> <a class="link-dark me-1" href="https://www.webofscience.com/wos/author/record/IYS-8969-2023" title="web of science" target="_blank"rel="noopener">{{< ai clarivate >}}</a> <a class="link-dark me-1" href="https://www.researchgate.net/profile/Debayan-Koley?ev=hdr_xprf" title="Research Gate" target="_blank"rel="noopener">{{< ai researchgate >}}</a>
 
 **Dr. Debayan Koley**
 
@@ -39,7 +39,7 @@ Action Area III, B, Newtown, New Town, West Bengal 700160, India
 
 <!-- <i class="fa-brands fa-whatsapp"></i> +91 7998141311 -->
 
-<p><a href="mailto:devstat96@gmail.com">devstat96\@gmail.com</a>, <a href="mailto:debayan.koley1@adamasuniversity.ac.in">debayan.koley1\@adamasuniversity.ac.in</a></p>
+<p><a href="mailto:devstat96@gmail.com">devstat96\@gmail.com</a>, <a href="mailto:debayan.koley@sxuk.edu.in">debayan.koley\@sxuk.edu.in</a></p>
 
 ```{r}
 #| echo: false

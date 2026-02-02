@@ -29,7 +29,7 @@ about:
     #   href: https://hachyderm.io/@spcanelon
     - icon: envelope
       aria-label: "Email"
-      href: mailto:debayan.koley1@adamasuniversity.ac.in
+      href: mailto:debayan.koley@sxuk.edu.in
     - text: "{{< ai orcid >}}"
       aria-label: "ORCID"
       href: https://orcid.org/0000-0001-7872-017X
