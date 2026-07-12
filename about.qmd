@@ -124,11 +124,11 @@ Debayan Koley is currently employed as an assistant professor in the Department 
 
 </div>
 
-<div>
+<!-- <div> -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/320px-C_Logo.png" alt="C Programming Logo" width="60"/><br> C Programming
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/320px-C_Logo.png" alt="C Programming Logo" width="60"/><br> C Programming -->
 
-</div>
+<!-- </div> -->
 :::::::::::
 
 # {{<fa users>}} Peer Reviewing
